@@ -1,0 +1,26 @@
+{
+  "name": "@plum/page-manager",
+  "version": "2.1.0",
+  "description": "Page manager for Plum eLearning Vue courses",
+  "main": "dist/bundle.common.js",
+  "module": "dist/bundle.esm.js",
+  "scripts": {
+    "build": "rollup -c",
+    "lint": "eslint src/*.js",
+    "lint:fix": "eslint --fix src/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "author": "John F MacDonald <jmacdonald@plumelearning.com> (https://plumelearning.com)",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-recommended": "^4.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.2",
+    "rollup": "^2.33.3"
+  },
+  "dependencies": {}
+}
