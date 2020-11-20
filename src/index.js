@@ -1,6 +1,6 @@
 /**
 @license
-Copyright 2019, 2020 Strategic Technology Solutions DBA Plum eLearning
+Copyright 2018, 2019, 2020 Strategic Technology Solutions DBA Plum eLearning
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
