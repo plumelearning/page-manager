@@ -1,5 +1,5 @@
 /*!
-* @plumelearning/page-manager v2.1.1
+* @plumelearning/page-manager v2.2.0
 * Copyright 2018, 2019, 2020 Strategic Technology Solutions DBA Plum eLearning
 * @license Apache-2.0
 */

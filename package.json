@@ -25,7 +25,6 @@
     "eslint-config-recommended": "^4.1.0",
     "eslint-plugin-prettier": "^3.4.1",
     "prettier": "^2.8.8",
-    "rollup": "^3.29.4"
-  },
-  "dependencies": {}
+    "rollup": "^4.9.5"
+  }
 }
