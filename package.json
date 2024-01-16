@@ -1,6 +1,6 @@
 {
   "name": "@plumelearning/page-manager",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Page manager for Plum eLearning Vue courses",
   "type": "module",
   "main": "dist/bundle.common.js",
