@@ -2,6 +2,7 @@
   "name": "@plumelearning/page-manager",
   "version": "2.1.1",
   "description": "Page manager for Plum eLearning Vue courses",
+  "type": "module",
   "main": "dist/bundle.common.js",
   "module": "dist/bundle.esm.js",
   "scripts": {
@@ -22,9 +23,9 @@
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-config-recommended": "^4.1.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "prettier": "^2.1.2",
-    "rollup": "^2.33.3"
+    "eslint-plugin-prettier": "^3.4.1",
+    "prettier": "^2.8.8",
+    "rollup": "^3.29.4"
   },
   "dependencies": {}
 }
