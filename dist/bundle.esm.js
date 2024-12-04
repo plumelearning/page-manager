@@ -27,7 +27,7 @@ const PageManager = class {
    * @param {Component[]} pageList
    */
   constructor(pageList) {
-    this.pages = pageList.filter(c => c.name);
+    this.pages = pageList.filter((c) => c.name);
     this.pageOf = {};
     for (let n = 0; n < this.pages.length; ++n) {
       const page = this.pages[n];
@@ -42,7 +42,7 @@ const PageManager = class {
    * @return {Map}
    */
   getPageMap() {
-    return new Map(this.pages.map(page => [page.name, page]));
+    return new Map(this.pages.map((page) => [page.name, page]));
   }
 
   /**
